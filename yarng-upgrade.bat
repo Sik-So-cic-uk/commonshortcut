@@ -1,4 +1,5 @@
 @echo off
 
-yarn self-update
-yarn global upgrade
+rem yarn self-update
+rem yarn global upgrade
+yarn global upgrade-interactive
